@@ -24,5 +24,5 @@ public class Main {
         System.out.format("f'(-4.1)=%s", exp.derivative().calculate(x)).println();
 
 
-    }
+    } // dogda
 }
